@@ -9,6 +9,7 @@ import AXI4_Types :: *;
 import AXI4_Master :: *;
 import AXI4_Slave :: *;
 import AXI4_Stream :: *;
+import AXI4_Stream_Lite :: *;
 import GenericAxi4Master :: *;
 
 import BlueAXITests :: *;
@@ -29,6 +30,7 @@ export AXI4_Types :: *;
 export AXI4_Master :: *;
 export AXI4_Slave :: *;
 export AXI4_Stream :: *;
+export AXI4_Stream_Lite :: *;
 export GenericAxi4Master :: *;
 
 export BlueAXITests :: *;
